@@ -1,7 +1,7 @@
 iclude<stdio.h>
 
 main{
-
+	/*memo*/
 	printf("hello world");
 	printf("02");
 
