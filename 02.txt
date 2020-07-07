@@ -1,0 +1,9 @@
+iclude<stdio.h>
+
+main{
+
+	printf("hello world");
+	printf("02");
+
+	return 0;
+}
