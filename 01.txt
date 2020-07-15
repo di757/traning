@@ -4,6 +4,7 @@ main{
 
 	/*メモ*/
 	printf("hello world");
+	printf("go to school");
 
 	return 0;
 }

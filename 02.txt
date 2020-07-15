@@ -4,6 +4,7 @@ main{
 	/*memo*/
 	printf("hello world");
 	printf("02");
+	printf("make new things");
 
 	return 0;
 }
