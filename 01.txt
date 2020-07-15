@@ -2,7 +2,7 @@ iclude<stdio.h>
 
 main{
 
-	/*メモ*/
+	///*メモ*/
 	printf("hello world");
 
 	return 0;
