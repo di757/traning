@@ -4,6 +4,7 @@ main{
 
 	/*メモ*/
 	printf("hello world");
+"Retry"
 
 	return 0;
 }
